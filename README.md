@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash Sharma.
 - 👀 I’m interested in making creative websites. 
-- 🌱 I’m currently learning Full Stack MERN Development. 
-- 💞️ Currently working on my personal project. 
+- 🌱 I’m currently learning MERN Stack. 
+- 💞️ Currently working on personal projects. 
 - 📫 You can reach me at yash20016@gmail.com
 
 <!---
